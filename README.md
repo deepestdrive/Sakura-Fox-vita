@@ -5,7 +5,7 @@ Mikoto is a foxgirl who lives deep in the woods, in a settlement full of foxgirl
 ## How to Install
 1. Extract the Vpk on your computer and transfer the folder to your vita
 2. Install the folder using vitashell
-3. Copy the `game` folder from to `ux0:/app/SFAD00001/`
+3. Copy the folder called `game` from the official game to `ux0:/app/SFAD00001/`
 4. Enjoy!
 
 Created using the amazing [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
